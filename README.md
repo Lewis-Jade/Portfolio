@@ -64,9 +64,7 @@ I'm a passionate developer who started coding in 2022, driven by curiosity and t
 
 ---
 
-## 📄 Download My CV
 
-You can find a downloadable version of my CV [here](my_cv.pdf).
 
 ---
 
