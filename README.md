@@ -59,7 +59,7 @@ I'm a passionate developer who started coding in 2022, driven by curiosity and t
 
 - 📧 Email: [mudaidalewis@gmail.com](mailto:mudaidalewis@gmail.com)
 - 💬 WhatsApp: [wa.me/254796319394](https://wa.me/254796319394)
-- 🌐 Portfolio: [your-portfolio-link.com](#)
+- 🌐 Portfolio: [lewis-jade.github.io/Portfolio](https://lewis-jade.github.io/Portfolio)
 - 🧑‍💻 GitHub: [github.com/Lewis-Jade](https://github.com/Lewis-Jade)
 
 ---
