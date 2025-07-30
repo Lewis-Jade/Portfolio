@@ -285,8 +285,9 @@ h4 {
   top: 40px;
   left: 150px;
   font-size: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   color: #fff;
+   color: #00ff99;
 }
 
 .lang {
@@ -401,6 +402,7 @@ projects {
   text-align: center;
   color: #00ff99;
   position: absolute;
+   font-family: 'Orbitron', sans-serif;
   top: 20px;
 }
 
@@ -435,6 +437,7 @@ projects {
   font-size: 1.5rem;
   color: #00ffcc;
   margin-bottom: 15px;
+   font-family: 'Orbitron', sans-serif;
 }
 
 
@@ -442,6 +445,7 @@ projects {
   font-size: 1rem;
   color: #dcdcdc;
   margin-bottom: 15px;
+   font-family: 'Poppins', sans-serif;
 }
 
 
@@ -478,6 +482,7 @@ projects {
   font-size: 2.5rem;
   color: #00ffcc;
   margin-bottom: 40px;
+   font-family: 'Orbitron', sans-serif;
 }
 
 .contact-container {
@@ -526,40 +531,18 @@ projects {
 .contact-details p {
   margin: 10px 0;
   font-size: 1rem;
+   font-family: 'Poppins', sans-serif;
 }
 
 .contact-details a {
   color: #00ffcc;
   text-decoration: none;
+   font-family: 'Poppins', sans-serif;
 }
 
 .contact-details a:hover {
   text-decoration: underline;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -571,11 +554,13 @@ projects {
   padding: 20px;
   text-align: center;
   border-top: 2px solid #0f0;
+   font-family: 'Orbitron', sans-serif;
 }
 
 .hacker-footer .prompt {
   color: #0f0;
   font-weight: bold;
+   font-family: 'Orbitron', sans-serif;
 }
 
 .hacker-footer .command {
@@ -591,4 +576,5 @@ projects {
   color: #0f0;
   font-size: 0.9em;
   opacity: 0.8;
+   font-family: 'Orbitron', sans-serif;
 }
